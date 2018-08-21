@@ -309,7 +309,19 @@ body{
 
 }
 
-.metaKnight,
-.kirby{
+#metaKnight,
+#kirby{
   height: 200px;
+}
+
+.attackAnimation{
+  height: 200px;
+}
+
+.hands{
+  width: 250px;
+}
+
+.resizeHands{
+  height: 125px;
 }
